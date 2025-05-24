@@ -32,5 +32,5 @@
 
 ## 📫 Cómo contactarme
 
-- 💼 LinkedIn: [linkedin.com/in/carlos-delgado-zambrana]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/carlos-delgado-zambrana-211532353/))
+- 💼 LinkedIn: [Open Link](https://www.linkedin.com/in/carlos-delgado-zambrana-211532353/)
 - 📧 Email: carlosdz.16180@gmail.com
