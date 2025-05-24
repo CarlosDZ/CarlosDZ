@@ -30,7 +30,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosDZ&show_icons=true&theme=tokyonight)
 
-## 📫 Cómo contactarme
+## 💬 Cómo contactarme
 
 - 💼 LinkedIn: [Open Link](https://www.linkedin.com/in/carlos-delgado-zambrana-211532353/)
 - 📧 Email: carlosdz.16180@gmail.com
