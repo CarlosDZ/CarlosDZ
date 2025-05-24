@@ -6,6 +6,7 @@
 
 💼 Actualmente estudio en: **Cesur Zaragoza**  
 🌍 Ubicación: Variando entre **Zaragoza/Zaragoza** y **Chiclana/Cadiz**
+
 💡 Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
 
 ## 🛠️ Tecnologías y herramientas
