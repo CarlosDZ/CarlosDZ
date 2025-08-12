@@ -2,7 +2,7 @@
 
 ## 📝 Sobre mi
 
-🎓 Soy estudiante de primer año de DAM, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y MongoDB.
+🎓 Soy estudiante de primer año de DAM, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y MongoDB, a demas de experiencia ofimatica varia como excel y gestores graficos de inventarios y ventas.
 
 💼 Actualmente estudio en: **Cesur Zaragoza**  
 🌍 Ubicación: Variando entre **Zaragoza/Zaragoza** y **Chiclana/Cadiz**  
