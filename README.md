@@ -23,7 +23,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| 📋 [Gestor de taller](https://github.com/CarlosDZ/Programa_Gestion_Taller) | Prototipo de un gestor de taller de coche a traves de terminal para clase | Java, MySQL |
+| 📋 [Gestor de taller](https://github.com/CarlosDZ/Programa_Gestion_Taller) | Prototipo de un gestor de taller de coches a traves de terminal para clase | Java, MySQL |
 | 🎨 [Programa generador de ofertas](https://github.com/CarlosDZ/Generador_de_ofertas_Belizon) | Aplicacion simple que edita imagenes segun una plantilla | Java, Creacion de archivos exe a partir de jar |
 
 
