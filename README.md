@@ -2,7 +2,7 @@
 
 ## 📝 Sobre mi
 
-🎓 Soy estudiante de primer año de DAM, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y MongoDB, a demas de experiencia ofimatica varia como excel y gestores graficos de inventarios y ventas.
+🎓 Soy estudiante de segundo año de DAW, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y MongoDB, a demas de experiencia ofimatica varia como excel y gestores graficos de inventarios y ventas.
 
 💼 Actualmente estudio en: **Cesur Zaragoza**  
 🌍 Ubicación: Variando entre **Zaragoza/Zaragoza** y **Chiclana/Cadiz**  
@@ -25,6 +25,7 @@
 |---------|-------------|-------------|
 | 📋 [Gestor de taller](https://github.com/CarlosDZ/Programa_Gestion_Taller) | Prototipo de un gestor de taller de coches a traves de terminal para clase | Java, MySQL |
 | 🎨 [Programa generador de ofertas](https://github.com/CarlosDZ/Generador_de_ofertas_Belizon) | Aplicacion simple que edita imagenes segun una plantilla | Java, Creacion de archivos exe a partir de jar |
+| 🌐 [Web cEDH Español (TFG)](https://github.com/CarlosDZ/TFG-Web-cEDH) | Desarrollo fullstack de una pagina web con gestion de usuarios, likes, etc... | JavaScript, MongoDB, Express, API-REST, ... |
 
 
 
