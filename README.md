@@ -24,7 +24,7 @@
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | 📋 [Gestor de taller](https://github.com/CarlosDZ/Programa_Gestion_Taller) | Prototipo de un gestor de taller de coches a traves de terminal para clase | Java, MySQL |
-| 🎨 [Programa generador de ofertas](https://github.com/CarlosDZ/Generador_de_ofertas_Belizon) | Aplicacion simple que edita imagenes segun una plantilla | Java, Creacion de archivos exe a partir de jar |
+| 🎨 [Programa generador de ofertas](https://github.com/CarlosDZ/Generador_de_ofertas_Belizon) | Aplicacion simple que edita imagenes segun una plantilla | Java, Creacion de imagenes |
 | 🌐 [Web cEDH Español (TFG)](https://github.com/CarlosDZ/TFG-Web-cEDH) | Desarrollo fullstack de una pagina web con gestion de usuarios, likes, etc... | JavaScript, MongoDB, Express, API-REST, ... |
 
 
