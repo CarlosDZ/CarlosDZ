@@ -35,6 +35,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
+---
+
 ## 💬 Cómo contactarme
 
 - 💼 LinkedIn: [Open Link](https://www.linkedin.com/in/carlos-delgado-zambrana-211532353/)
