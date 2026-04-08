@@ -27,14 +27,6 @@
 | 🎨 [Programa generador de ofertas](https://github.com/CarlosDZ/Generador_de_ofertas_Belizon) | Aplicacion simple que edita imagenes segun una plantilla | Java, Creacion de imagenes |
 | 🌐 [Web cEDH Español (TFG)](https://github.com/CarlosDZ/TFG-Web-cEDH) | Desarrollo fullstack de una pagina web con gestion de usuarios, likes, etc... | JavaScript, MongoDB, Express, API-REST, ... |
 
-
-
-## 📊 GitHub & Coding Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
 ---
 
 ## 💬 Cómo contactarme
