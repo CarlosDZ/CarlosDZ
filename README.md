@@ -5,7 +5,7 @@
 Soy desarrollador web fullstack, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y no relacionales, a demas de experiencia mas especifica en frameworks como Angular, Vue, Nest y Express.
 
 Realize mi grado en DAW en: **Cesur Zaragoza**  
-Ubicación: **Chiclana/Cadiz** 
+Ubicación: **Chiclana/Cadiz**  
 Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
 
 ## Tecnologías y herramientas
