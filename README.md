@@ -1,14 +1,14 @@
-# 👋 Hola! Soy Carlos Delgado
+# Hola! Soy Carlos Delgado
 
-## 📝 Sobre mi
+## Sobre mi
 
-🎓 Soy estudiante de segundo año de DAW, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y MongoDB, a demas de experiencia ofimatica varia como excel y gestores graficos de inventarios y ventas.
+Soy desarrollador web fullstack, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y no relacionales, a demas de experiencia mas especifica en frameworks como Angular, Vue, Nest y Express.
 
-💼 Actualmente estudio en: **Cesur Zaragoza**  
-🌍 Ubicación: Variando entre **Zaragoza/Zaragoza** y **Chiclana/Cadiz**  
-💡 Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
+Realize mi grado en DAW en: **Cesur Zaragoza**  
+Ubicación: **Chiclana/Cadiz**
+Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
@@ -19,17 +19,18 @@
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| 📋 [Gestor de taller](https://github.com/CarlosDZ/Programa_Gestion_Taller) | Prototipo de un gestor de taller de coches a traves de terminal para clase | Java, MySQL |
-| 🎨 [Programa generador de ofertas](https://github.com/CarlosDZ/Generador_de_ofertas_Belizon) | Aplicacion simple que edita imagenes segun una plantilla | Java, Creacion de imagenes |
-| 🌐 [Web cEDH Español (TFG)](https://github.com/CarlosDZ/TFG-Web-cEDH) | Desarrollo fullstack de una pagina web con gestion de usuarios, likes, etc... | JavaScript, MongoDB, Express, API-REST, ... |
+| [Web cEDH Español (TFG)](https://github.com/CarlosDZ/TFG-Web-cEDH) | Desarrollo fullstack de una pagina web con gestion de usuarios, likes, etc... | JavaScript, MongoDB, Express, API-REST, ... |
+| [Complete OS (Linux Kernel-Based)](https://github.com/CarlosDZ/Tundra-OS) | Diseño y desarrollo completo de un sistema operativo basado en el kernel de Linux | C, C++, Sistemas Operativos, Ciberseguridad, ... |
+| [Echoes Music APP (Android APP)](https://github.com/CarlosDZ/echoes-music-android) | Reproductor de musica ligero y optimizado para dispositivos android, soporta storage local o remoto. | Java, Gradle, Diseño de interfaces moviles |
+| [Echoes Server (Dedicated Storage Server)](https://github.com/CarlosDZ/echoes-music-server) | Servidor de archivos para storage remoto de musica, pensado para el uso remoto con Echoes Music APP| Java, SQLite, API, Dockerizacion, Remote Storage |
 
 ---
 
-## 💬 Cómo contactarme
+## Cómo contactarme
 
-- 💼 LinkedIn: [Open Link](https://www.linkedin.com/in/carlos-delgado-zambrana-211532353/)
-- 📧 Email: carlos.dz16180@gmail.com
+- LinkedIn: [Open Link](https://www.linkedin.com/in/carlos-delgado-zambrana-211532353/)
+- Email: carlos.dz16180@gmail.com
