@@ -2,10 +2,11 @@
 
 ## Sobre mi
 
-Soy desarrollador web fullstack, con experiencia en Java, JavaScript, html/css, bases de datos tipo SQL y no relacionales, a demas de experiencia mas especifica en frameworks como Angular, Vue, Nest y Express.
+Soy desarrollador web fullstack, con experiencia en Java, JavaScript/TypeScript, html+css, bases de datos tipo SQL y MongoDB, a demas de experiencia mas especifica en frameworks como Angular, Vue, Nest y Express.
 
 Realize mi grado en DAW en: **Cesur Zaragoza**  
 Ubicación: **Chiclana/Cadiz**  
+Trabajando en **Nordix Systems** como **Desarrollador web fullstack**
 Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
 
 ## Tecnologías y herramientas
@@ -27,6 +28,7 @@ Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
 | [Complete OS (Linux Kernel-Based)](https://github.com/CarlosDZ/Tundra-OS) | Diseño y desarrollo completo de un sistema operativo basado en el kernel de Linux | C, C++, Sistemas Operativos, Ciberseguridad, ... |
 | [Echoes Music APP (Android APP)](https://github.com/CarlosDZ/echoes-music-android) | Reproductor de musica ligero y optimizado para dispositivos android, soporta storage local o remoto. | Java, Gradle, Diseño de interfaces moviles |
 | [Echoes Server (Dedicated Storage Server)](https://github.com/CarlosDZ/echoes-music-server) | Servidor de archivos para storage remoto de musica, pensado para el uso remoto con Echoes Music APP| Java, SQLite, API, Dockerizacion, Remote Storage |
+| [icVim (Nvim configuration & theme)](https://github.com/CarlosDZ/icvim) | Configuracion completa y con tema visual de NVIM, keyboard first, opinionada, multi-lenguaje| Nvim, Lua, Dotfiles, TUI, Editor de codigo |
 
 ---
 
