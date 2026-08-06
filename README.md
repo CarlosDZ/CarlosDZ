@@ -6,7 +6,7 @@ Soy desarrollador web fullstack, con experiencia en Java, JavaScript/TypeScript,
 
 Realize mi grado en DAW en: **Cesur Zaragoza**  
 Ubicación: **Chiclana/Cadiz**  
-Trabajando en **Nordix Systems** como **Desarrollador web fullstack** 
+Trabajando en **Nordix Systems** como **Desarrollador web fullstack**  
 Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
 
 ## Tecnologías y herramientas
