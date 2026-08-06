@@ -30,6 +30,7 @@ Gran interes en: **Desarrollo en general**, **Backend** y **Ciberseguridad**
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
 
 ### Herramientas
 
